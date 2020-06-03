@@ -1,0 +1,6 @@
+D:\repos\DummyForTeamCity\DummyForTeamCity\bin\Debug\DummyForTeamCity.dll
+D:\repos\DummyForTeamCity\DummyForTeamCity\bin\Debug\DummyForTeamCity.pdb
+D:\repos\DummyForTeamCity\DummyForTeamCity\obj\Debug\DummyForTeamCity.csprojAssemblyReference.cache
+D:\repos\DummyForTeamCity\DummyForTeamCity\obj\Debug\DummyForTeamCity.csproj.CoreCompileInputs.cache
+D:\repos\DummyForTeamCity\DummyForTeamCity\obj\Debug\DummyForTeamCity.dll
+D:\repos\DummyForTeamCity\DummyForTeamCity\obj\Debug\DummyForTeamCity.pdb
