@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyForTeamCity", "DummyForTeamCity\DummyForTeamCity.csproj", "{83B66058-4F6D-4750-B777-E24CFEC05CE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83B66058-4F6D-4750-B777-E24CFEC05CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83B66058-4F6D-4750-B777-E24CFEC05CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83B66058-4F6D-4750-B777-E24CFEC05CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
