@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyForTeamCity", "DummyFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{4858EFF9-C6AE-4431-A635-300BE9AF2889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FE42E1-976A-4768-9FF5-77ED85CE2F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4858EFF9-C6AE-4431-A635-300BE9AF2889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4858EFF9-C6AE-4431-A635-300BE9AF2889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4858EFF9-C6AE-4431-A635-300BE9AF2889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4858EFF9-C6AE-4431-A635-300BE9AF2889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
